@@ -1,5 +1,3 @@
-## Hi, my name is Lucas Abella 👋
-
 <div align="center">
 
 # Hi! My name is Lucas! 👋
@@ -15,7 +13,7 @@ Focused on web development, APIs, and creative projects like digital games mecha
 
 ## Most Used Languages
 
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@LucasAbellla&layout=compact&langs_count=7&theme=transparent&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=3178C6&bg_color=00000000" />
+<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAbellla&layout=compact&langs_count=7&theme=transparent&hide_border=false&title_color=ffffff&text_color=ffffff&icon_color=3178C6&bg_color=00000000" />
 
 <br />
 
