@@ -7,22 +7,22 @@
   <a href="mailto:lucasabellamacedo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h2 align="center">👤 About me</h2>
+<h2 align="center"> About me</h2>
 
 <img src="assets/terminal.svg" align="right" width="300" alt="Terminal: whoami, Lucas Abella; focus, web development, APIs and digital game mechanics" />
 
 Hello there! I'm **_Lucas Abella_**, a Systems Analysis and Development student. I like building things for the web, designing APIs and figuring out the mechanics behind digital games.
 
 <p align="center">
-  🎓 <i><b>Studying Systems Analysis and Development</b></i><br />
-  🌐 <i><b>Web development and APIs</b></i><br />
-  🎮 <i><b>Digital game mechanics</b></i><br />
-  📩 <i><b>lucasabellamacedo@gmail.com</b></i>
+   <i><b>Studying Systems Analysis and Development</b></i><br />
+   <i><b>Web development and APIs</b></i><br />
+   <i><b>Digital game mechanics</b></i><br />
+   <i><b>lucasabellamacedo@gmail.com</b></i>
 </p>
 
 <br clear="right" />
 
-<h2 align="center">🛠️ Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -41,7 +41,7 @@ Hello there! I'm **_Lucas Abella_**, a Systems Analysis and Development student.
   <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center">📈 Statistics</h2>
+<h2 align="center"> Statistics</h2>
 
 <p align="center">
   <img src="assets/stats.svg" width="49%" alt="GitHub stats" />
@@ -56,4 +56,4 @@ Hello there! I'm **_Lucas Abella_**, a Systems Analysis and Development student.
   <img src="assets/languages.svg" width="49%" alt="Most used languages" />
 </p>
 
-<!-- The cards in assets/ are rebuilt every day by .github/workflows/stats.yml (scripts/stats.mjs). -->
+
