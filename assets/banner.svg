@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Welcome to Lucas's GitHub">
+  <title>Welcome to Lucas's GitHub</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e9e9e9"/>
+      <stop offset="0.55" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#3a3a3a"/>
+    </linearGradient>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5c5c5c"/>
+      <stop offset="1" stop-color="#3b3b3b"/>
+    </linearGradient>
+    <linearGradient id="mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f2f2f"/>
+      <stop offset="1" stop-color="#1c1c1c"/>
+    </linearGradient>
+    <linearGradient id="near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#151515"/>
+      <stop offset="1" stop-color="#060606"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.85"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="980" cy="168" r="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#sky)"/>
+  <circle cx="980" cy="168" r="120" fill="url(#sun)"/>
+  <circle cx="980" cy="168" r="22" fill="#fafafa"/>
+
+  <!-- three ridges of hills, far to near -->
+  <path d="M0 196 C 120 170, 230 182, 340 176 S 560 150, 690 170 S 900 188, 1010 172 S 1190 150, 1280 166 V320 H0 Z" fill="url(#far)"/>
+  <path d="M0 226 C 150 206, 260 236, 420 220 S 690 196, 820 214 S 1080 238, 1280 210 V320 H0 Z" fill="url(#mid)"/>
+  <path d="M0 262 C 180 244, 330 270, 520 256 S 860 236, 1030 254 S 1200 270, 1280 258 V320 H0 Z" fill="url(#near)"/>
+
+  <!-- a road of light that climbs toward the sun -->
+  <path d="M600 320 C 640 300, 760 284, 740 266 S 820 244, 900 236 S 960 214, 978 196 L 984 196 C 972 216, 936 236, 912 244 S 846 266, 790 274 S 760 300, 720 320 Z" fill="url(#trail)"/>
+
+  <!-- text block -->
+  <g font-family="Consolas, 'Cascadia Mono', 'SFMono-Regular', Menlo, 'Courier New', monospace" text-anchor="middle">
+    <rect x="368" y="82" width="544" height="96" rx="4" fill="#0b0b0b" fill-opacity="0.72"/>
+    <text x="640" y="125" fill="#f2f2f2" font-size="34" letter-spacing="1">Welcome to Lucas's GitHub</text>
+    <text x="640" y="162" fill="#bdbdbd" font-size="22">&lt;/&gt;</text>
+  </g>
+</svg>
