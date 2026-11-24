@@ -10,7 +10,7 @@
   <g transform="translate(25 87)">
     <path d="M8 5.2a2.8 2.8 0 1 1 0 5.6 2.8 2.8 0 0 1 0-5.6zM0.5 8h4.7M10.8 8h4.7" transform="translate(0 -12)" fill="none" stroke="#c9c9c9" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="26" y="0" fill="#c9c9c9" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600">Contributions (2026):</text>
-    <text x="230" y="0" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700">562</text>
+    <text x="230" y="0" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700">581</text>
   </g>
   <g transform="translate(25 112)">
     <path d="M4 2.5v11M4 2.5a1.5 1.5 0 1 0 0 .1M12 13.5V6.5a2 2 0 0 0-2-2H7.5M12 13.5a1.5 1.5 0 1 0 0 .1M9 3l-1.5 1.5L9 6" transform="translate(0 -12)" fill="none" stroke="#c9c9c9" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
@@ -28,7 +28,7 @@
     <text x="230" y="0" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="700">13</text>
   </g>
   <circle cx="400" cy="100" r="44" fill="none" stroke="#2b2b2b" stroke-width="6"/>
-  <circle cx="400" cy="100" r="44" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-dasharray="271.6 999" transform="rotate(-90 400 100)"/>
-  <text x="400" y="104" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700">562</text>
+  <circle cx="400" cy="100" r="44" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-dasharray="271.8 999" transform="rotate(-90 400 100)"/>
+  <text x="400" y="104" text-anchor="middle" fill="#ffffff" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700">581</text>
   <text x="400" y="122" text-anchor="middle" fill="#7d7d7d" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="10">in 2026</text>
 </svg>
